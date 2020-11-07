@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Battery Usage</string>
+    <string name="title_activity_play_song_dummy">PlaySongDummyActivity</string>
+</resources>
